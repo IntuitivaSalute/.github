@@ -9,11 +9,17 @@ Gestiamo due piattaforme principali per connettere pazienti e professionisti san
 * **[intuitivasalute.it](https://intuitivasalute.it)**: Il nostro sito istituzionale con tutte le informazioni sui servizi e la nostra visione.
 * **[app.intuitivasalute.it](https://app.intuitivasalute.it)**: La nostra piattaforma operativa per la gestione di prenotazioni, telemedicina e dati sanitari.
 
-## Dove trovarci
+## 📱 Seguici sui Social
 
-* **Sito Web:** [intuitivasalute.it](https://intuitivasalute.it)
-* **Web App:** [app.intuitivasalute.it](https://app.intuitivasalute.it)
-* **Email:** info@intuitivasalute.it
+* **Instagram:** [@intuitivasalute](https://www.instagram.com/intuitivasalute)
+* **LinkedIn:** [Intuitiva Salute](https://www.linkedin.com/company/intuitiva-salute)
+* **TikTok:** [@intuitiva.salute](https://www.tiktok.com/@intuitiva.salute)
+* **Facebook:** [Intuitiva Salute](https://www.facebook.com/people/Intuitiva-Salute/61571798364011)
+
+## 📩 Contatti Diretti
+
+* **Sito Web:** [www.intuitivasalute.it](https://intuitivasalute.it)
+* **Email:** [info@intuitivasalute.it](mailto:info@intuitivasalute.it)
 
 ---
 *Innovazione al servizio del benessere.*
